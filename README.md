@@ -85,4 +85,4 @@ In the future, I plan to:
 
 ## Author
 
-* [Your Name/GitHub Username]
+* Eder Olimpio - EderOlimpio
